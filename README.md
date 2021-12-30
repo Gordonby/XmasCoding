@@ -30,3 +30,4 @@ Gord / GitHub CoPilot | Python | Yes  | 34 |  |
 Sam   | Ruby | Yes | 16 | 10/10 | 5/10
 Gord  | Powershell | Mostly (Just compared Default Values) | 8 |  | 
 Sam | Bash | Mostly (Missing clean table output) | 3 | 6/10 | 0/10
+Paromita | Python | Mostly (Missing new parameters) | 20 | |
