@@ -24,10 +24,10 @@ Fork the repo and PR
 
 ## Results
 
-Coder | Language | Met challenge | Lines of Code | Code Score | Html pretty score
------ | -------- | ------------- | ------------- | ---------- | -----------------
-Gord / GitHub CoPilot | Python | Yes  | 34 |  | 
-Sam   | Ruby | Yes | 16 | 10/10 | 5/10
-Gord  | Powershell | Mostly (Just compared Default Values) | 8 |  | 
-Sam | Bash | Mostly (Missing clean table output) | 3 | 6/10 | 0/10
-Paromita | Python | Mostly (Missing new parameters) | 20 | |
+Coder | Language |  Differences found | Met challenge | Lines of Code | Code Score | Html pretty score
+----- | -------- | ------------------ | ------------- | ------------- | ---------- | -----------------
+Gord / GitHub CoPilot | Python | 5 | Yes  | 34 |  | 
+Sam   | Ruby | 3 | Partially | 16 | 10/10 | 5/10
+Gord  | Powershell | 5 | Mostly (Just compared Default Values) | 8 |  | 
+Sam | Bash | 5 | Mostly (Missing clean table output) | 3 | 6/10 | 0/10
+Paromita | Python | 3 | Mostly (Missing new parameters) | 20 | |
