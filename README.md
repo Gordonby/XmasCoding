@@ -31,3 +31,5 @@ Sam   | Ruby | 3 | Partially | 16 | 10/10 | 5/10
 Gord  | Powershell | 5 | Mostly (Just compared Default Values) | 8 |  | 
 Sam | Bash | 5 | Mostly (Missing clean table output) | 3 | 6/10 | 0/10
 Paromita | Python | 3 | Mostly (Missing new parameters) | 20 | |
+Keith | The best one (js-diff.js) | 5 [click here](./js-diff.md) | Yes, with sorted list, including missing or different values of any type (only checking defaultValue) | 3 | 10/10 | Markdown is the new HTML
+
